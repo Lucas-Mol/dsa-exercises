@@ -126,3 +126,7 @@ func isBalanced(s string) string {
 		return "NO"
 	}
 }
+
+// func main() {
+// 	fmt.Println("Expected: YES; Received:", isBalanced("{[()]}"))
+// }
